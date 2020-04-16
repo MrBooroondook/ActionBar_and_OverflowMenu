@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ActionBar and OverflowMenu</string>
+    <string name="fighter_status">Статус бойца</string>
+    <string name="adopted">принят</string>
+    <string name="fired">уволен</string>
+    <string name="reset">Обновить</string>
+    <string name="all_check">Всех принять</string>
+    <string name="all_adopted">Всех уволить</string>
 </resources>
